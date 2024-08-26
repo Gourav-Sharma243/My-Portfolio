@@ -1,0 +1,17 @@
+.name
+{
+    color: rgb(178, 121, 230);
+}
+
+#element
+{
+    color: rgb(178, 121, 230);
+}
+
+main >hr
+{
+    border: 0;
+    background: #9c97f1;
+    height: 1.2px;
+    margin: 40px 84px;
+}
